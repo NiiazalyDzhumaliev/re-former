@@ -1,6 +1,6 @@
 # Micro-reddit - Rails
 > Models excercise allowing posts and comments to be created by users stablishing their associations. No web interface included. Also add validations to the models. 
-![screenshot](app/assets/images/Screenshot from 2020-06-04 18-06-25.png)
+![screenshot](app/assets/images/screenshot.png)
 ## Models created
 - User
 - Post
