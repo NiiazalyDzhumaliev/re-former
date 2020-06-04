@@ -1,12 +1,10 @@
-# Micro-reddit - Rails
-> Models excercise allowing posts and comments to be created by users stablishing their associations. No web interface included. Also add validations to the models. 
-
+# Building Forms with Rails
+> This project involves multiple ways to build a form in rails that can send parameters to a controller so that it can build an instance of a model with those parameters.
 
 ![screenshot](app/assets/images/screenshot.png)
-## Models created
-- User
-- Post
-- Comment
+## Forms created
+- users/new
+- users/edit
 ## Built With
 - Ruby 2.5.1
 - Rails 6.0.2
